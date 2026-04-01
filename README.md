@@ -100,19 +100,32 @@ Covers exploratory data analysis (EDA), statistical summaries, and visualization
 The dashboard contains **3 interactive report pages:**
 
 ### Page 1 — Vulnerability & Targeting Overview
+
+## Dashboard Overview
+![Overview](images/overview.png)
+
 - **17K** total households | **Avg Assistance: 10.73K** | **33% Food Insecure**
 - Household distribution by vulnerability category (donut chart)
 - Food security status by vulnerability category
 - Average assistance by category
 - Income vs assistance scatter analysis
 
+
 ### Page 2 — Debt, Income & Economic Resilience
+
+## Debt, Income & Economic Resilience
+![Debt Dashboard](images/debt.png)
+
 - **Avg Debt: 5.08K** | **Avg Income: 4.29K** | **Debt-to-Income: 1.18** | **33% High Debt**
 - Debt status distribution by vulnerability category
 - Income vs debt level by employment status (Self-Employed / Employed / Unemployed)
 - Expenditure vs income gap by income source (Casual Labor, Agriculture, Trading, Aid, Business)
 
 ### Page 3 — Household Vulnerability Deep Dive
+
+##  Household Vulnerability Deep Dive
+![Deep Dive Dashboard](images/deepdive.png)
+
 - **Food Consumption Score: 723.59K** | **Total HH Size: 101K** | **Assistance per Member: 1.78K**
 - Years in camp distribution by vulnerability category
 - Camp-wide food consumption score vs WFP threshold gauge
@@ -134,7 +147,7 @@ The dashboard contains **3 interactive report pages:**
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 ### SQL
 ```sql
