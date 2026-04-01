@@ -167,17 +167,3 @@ jupyter notebook "2-_KAKUMA_DIFFERENTIATED_ASSISTANCE.ipynb"
 ## Context
 
 **Kakuma Refugee Camp** is one of the world's largest refugee camps, located in Turkana County, northwestern Kenya. Managed by UNHCR and WFP, it hosts refugees primarily from South Sudan, Somalia, DRC, Ethiopia, and Burundi. Differentiated assistance refers to targeting humanitarian aid based on household vulnerability levels to ensure the most at-risk populations receive proportionally greater support.
-
----
-
-##  Author
-**Name:** Olara Anthony Bulu
-
-**Project:** Kakuma Refugee Camp — Differentiated Assistance Analysis  
-**Tools:** Python · SQL (SQLite) · Power BI  
-**Data:** Synthetic dataset (~17,000 households, 23 variables)
-
----
-
-
-*This project uses a synthetic dataset modeled on real-world humanitarian data for analytical and educational purposes.*
