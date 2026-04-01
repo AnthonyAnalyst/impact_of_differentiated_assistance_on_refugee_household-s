@@ -102,7 +102,7 @@ The dashboard contains **3 interactive report pages:**
 ### Page 1 — Vulnerability & Targeting Overview
 
 ## Dashboard Overview
-![Overview](images/overview.png)
+![Overview](images/file:///C:/Users/len/Desktop/files%20(5)/dashboard_overview.png)
 
 - **17K** total households | **Avg Assistance: 10.73K** | **33% Food Insecure**
 - Household distribution by vulnerability category (donut chart)
